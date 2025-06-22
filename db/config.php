@@ -1,7 +1,7 @@
 <?php
 define('DATABASE', [
     'HOST' => 'localhost',
-    'DBNAME' => 'sablona',
+    'DBNAME' => 'real_estate',
     'PORT' => 3306,
     'USER_NAME' => 'root',
     'PASSWORD' => ''

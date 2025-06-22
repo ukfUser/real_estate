@@ -409,7 +409,7 @@ dl dd a {
 	padding-top:18px;
 }
 /****************************************/
-input.submit {
+.submit {
 	background:#2098f5 !important;
 	font-size:20px !important;
 	line-height:24px !important;
@@ -420,6 +420,22 @@ input.submit {
 	height: 40px !important;
 	margin-top: 15px !important;
 }
-input.submit:hover {
+.submit:hover {
 	background:#131313 !important;
 }
+.review {
+	margin: 10px;
+}
+.reviews_container {
+	margin-top: 45px;
+}
+.review a {
+	background:#2098f5 !important;
+	font-size:20px !important;
+	text-decoration: none !important;
+	padding:5px 23px 5px 23px !important;
+	margin-right: 10px !important;
+	width: 60px !important;
+	height: 25px !important;
+}
+
