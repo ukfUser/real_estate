@@ -1,10 +1,8 @@
-{
-  "continent" : [
-    "Asia",
-    "Australia",
-    "Africa",
-    "North America",
-    "Europe",
-    "Latin America"
-  ]
-}
+[
+  "Asia",
+  "Australia",
+  "Africa",
+  "North America",
+  "Europe",
+  "Latin America"
+]

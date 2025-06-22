@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Selling",
+    "description": "Nam liber tempor cum soluta no eleifend option congue nihil imperdiet doming iquod mazim placerat.",
+    "img": "images/page1-img1.jpg"
+  },
+  {
+    "title": "Investing",
+    "description": "Nam liber tempor cum soluta no eleifend option congue nihil imperdiet doming iquod mazim placerat.",
+    "img": "images/page1-img2.jpg"
+  },
+  {
+    "title": "Renting",
+    "description": "Nam liber tempor cum soluta no eleifend option congue nihil imperdiet doming iquod mazim placerat.",
+    "img": "images/page1-img3.jpg"
+  }
+]

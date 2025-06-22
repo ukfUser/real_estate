@@ -26,33 +26,9 @@ include 'parts/header.php';
       </div>
       <div class="grid_4">
         <div class="left-1">
-          <h2 class="top-1 p3">Find your home</h2>
-          <form id="form-1" class="form-1 bot-2" action="#">
-            <div class="select-1">
-              <label>Home type</label>
-              <select name="select" >
-                <option>Homes for sale</option>
-              </select>
-            </div>
-            <div>
-              <label>Location</label>
-              <input type="text" value="Address, City, Zip" onBlur="if(this.value=='') this.value='Address, City, Zip'" onFocus="if(this.value =='Address, City, Zip' ) this.value=''">
-            </div>
-            <div class="select-2">
-              <label>Beds</label>
-              <select name="select" >
-                <option>&nbsp;</option>
-              </select>
-            </div>
-            <div class="select-2 last">
-              <label>Baths</label>
-              <select name="select" >
-                <option>&nbsp;</option>
-              </select>
-            </div>
-            <a class="button">Search</a>
-            <div class="clear"></div>
-          </form>
+            <?php
+            include 'parts/search.php';
+            ?>
           <h2 class="p3">Find sales</h2>
           <p class="color-1 p6"><strong>Nullam a velit felis, eget luctus elitnlla augue lorem</strong></p>
           <p class="p2">Sodales et pharetra et, porttitor vel leo. Phasellus at mi nec sem sodales egestas suscipit rhoncus, lacus ligula tristique risus eros habitasse platea enim.</p>

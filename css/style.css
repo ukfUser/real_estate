@@ -408,7 +408,18 @@ dl dd a {
 	width:620px;
 	padding-top:18px;
 }
-.btns a {
-	display:inline-block;
-	margin:0 20px 0 0px;
+/****************************************/
+input.submit {
+	background:#2098f5 !important;
+	font-size:20px !important;
+	line-height:24px !important;
+	color:#fff !important;
+	display:inline-block !important;
+	padding:5px 23px 5px 23px !important;
+	width: 120px !important;
+	height: 40px !important;
+	margin-top: 15px !important;
+}
+input.submit:hover {
+	background:#131313 !important;
 }

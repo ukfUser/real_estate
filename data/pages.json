@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Main",
+    "name": "index"
+  },
+  {
+    "title": "Buying",
+    "name": "buying"
+  },
+  {
+    "title": "Selling",
+    "name": "selling"
+  },
+  {
+    "title": "Renting",
+    "name": "renting"
+  },
+  {
+    "title": "Finance",
+    "name": "finance"
+  },
+  {
+    "title": "Contacts",
+    "name": "contacts"
+  }
+]
