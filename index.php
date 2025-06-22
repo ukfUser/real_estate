@@ -50,8 +50,7 @@ include 'parts/header.php';
                   } else {
                       echo '<ul class="list-1">';
                   }
-
-                  echo '<ul class="list-1">';
+                  
                   foreach ($column as $continent) {
                       echo '<li><a href="#">' . $continent . '</a></li>';
                   }
